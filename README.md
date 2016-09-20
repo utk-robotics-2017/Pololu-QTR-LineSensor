@@ -2,7 +2,7 @@
 
 Version: 3.0.0<br>
 Release date: 2016-08-16<br>
-[![Build Status](https://travis-ci.org/pololu/qtr-sensors-arduino.svg?branch=master)](https://travis-ci.org/pololu/qtr-sensors-arduino)<br>
+[![Build Status](https://travis-ci.org/utk-robotics-2017/Pololu-QTR-LineSensor.svg?branch=master)](https://travis-ci.org/utk-robotics-2017/Pololu-QTR-LineSensor)<br>
 [www.pololu.com](https://www.pololu.com/)
 
 ## Summary
